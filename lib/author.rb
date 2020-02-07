@@ -1,3 +1,4 @@
+
 class Author
 
   attr_accessor :name
@@ -30,3 +31,4 @@ class Author
     @@post_count
   end
 end
+
